@@ -1,6 +1,4 @@
 
-## Banner
-
 ![App Screenshot](https://github.com/PedroVazN/Java_Script-Projetos/blob/main/javascript-logo-banner.jpg?raw=true)
 
 
